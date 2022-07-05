@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cheek-J
-- 👀 I’m interested in embedded systems software design in the automotive industries
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in embedded systems software design for electric vehicles.
+- 🌱 I’m currently learning c++ and c
 - 💞️ I’m looking to collaborate on c++ projects.
 - 📫 Email me: cheek2467@gmail.com
 
